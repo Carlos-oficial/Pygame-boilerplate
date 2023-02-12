@@ -1,0 +1,2 @@
+TAMANHO_DO_ECRA = (1000, 1000)
+NOME_DO_JOGO = "Joguinho"
